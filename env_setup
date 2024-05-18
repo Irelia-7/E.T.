@@ -1,4 +1,4 @@
-export ET_ROOT=$(pwd)/ET
+export ET_ROOT=$(pwd)
 export ET_LOGS=$ET_ROOT/logs
 export ET_DATA=$ET_ROOT/data
 export PYTHONPATH=$PYTHONPATH:$ET_ROOT
