@@ -27,7 +27,7 @@ def cfg_args():
     # dataset folder to dump frames to
     data_output = 'generated_2.1.0'
     # dataset folder to load jsons from
-    data_input = 'json_2.1.0'
+    data_input = 'json_feat_2.1.0'
     # smooth naviagation (like the original data)
     smooth_nav = True
     # time delays (like the original data)
